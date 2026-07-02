@@ -28,6 +28,8 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 *(🟢 done / 🟡 in progress / ⬜ planned — updated regularly)*
 
 ## 📁 Repo structure
+
+```
 ├── notes/          # topic notes, theory rewritten in my own words
 │   ├── networking/
 │   ├── web-security/
@@ -36,6 +38,7 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 ├── writeups/        # solutions from TryHackMe, HTB, PortSwigger Academy
 ├── labs/            # personal experiments and mini-projects
 └── scripts/          # tools and scripts written along the way
+```
 
 ## 🧪 Featured projects / case studies
 
