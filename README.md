@@ -58,4 +58,4 @@ Short, essential topic notes — written for future me, not for publication. Ful
 
 ## About this repo
 
-This isn't a portfolio of finished certifications — it's a transparent learning log, updated regularly. If you're looking for someone early in their cybersecurity career but with real experience building and securing web applications — [LinkedIn](#) | [Contact](#)
+This isn't a portfolio of finished certifications — it's a transparent learning log, updated regularly. If you're looking for someone early in their cybersecurity career but with real experience building and securing web applications — [Let's contact](https://www.linkedin.com/in/eryk-szczepaniec-94509a207/) 
