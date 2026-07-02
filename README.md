@@ -14,8 +14,11 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 
 | Area | Status | Notes |
 |---|---|---|
-| Linux & CLI basics | 🟡 in progress | [notes/linux](./notes/linux) |
-| Networking fundamentals | ⬜ planned | [notes/networking](./notes/networking) |
+| Cisco Networking Academy — Introduction to Cybersecurity | 🟡 in progress | [notes/courses/cisco-intro-to-cybersecurity.md](./notes/courses) |
+| Networking fundamentals | 🟡 in progress | [notes/networking](./notes/networking) |
+| Linux & CLI basics | ⬜ planned | [notes/linux](./notes/linux) |
+| Wireshark (packet analysis) | 🟡 in progress | [notes/tools/wireshark.md](./notes/tools) |
+| nmap (CLI) | 🟡 in progress | [notes/tools/nmap.md](./notes/tools) |
 | Web Security (OWASP Top 10) | ⬜ planned | [notes/web-security](./notes/web-security) |
 | PortSwigger Web Security Academy | ⬜ planned | [writeups/](./writeups) |
 | TryHackMe — Pre Security path | ⬜ planned | [writeups/](./writeups) |
@@ -23,7 +26,6 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 | CompTIA Security+ / eJPT | ⬜ planned | — |
 
 *(🟢 done / 🟡 in progress / ⬜ planned — updated regularly)*
-
 
 ## 📁 Repo structure
 ├── notes/          # topic notes, theory rewritten in my own words
@@ -47,6 +49,7 @@ Updated regularly — full index in [writeups/](./writeups).
 ## 📚 Notes
 
 Short, essential topic notes — written for future me, not for publication. Full list in [notes/](./notes).
+
 
 ---
 
