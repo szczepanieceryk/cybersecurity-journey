@@ -2,7 +2,7 @@
 
 > Documenting my path from Web Developer to Cybersecurity. Notes, writeups, mini-projects, and everything in between.
 
-**Who I am:** Front-end/Web Developer transitioning toward App / Network Sec / IoT / Cybersecurity. 
+**Who I am:** Front-end/Web Developer transitioning toward NetworkSec / IoT / Cybersecurity. 
 
 This repo is my public learning log — both for myself (knowledge retention) and for anyone curious what this path actually looks like.
 
