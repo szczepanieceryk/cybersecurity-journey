@@ -14,7 +14,7 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 
 | Area | Status | Notes |
 |---|---|---|
-| Cisco Networking Academy — Introduction to Cybersecurity | 🟡 in progress | [notes/courses/cisco-intro-to-cybersecurity.md](./notes/courses) |
+| Cisco Networking Academy — Introduction to Cybersecurity | 🟢 done  | [notes/courses/cisco-intro-to-cybersecurity.md](./notes/courses) |
 | Networking fundamentals | 🟡 in progress | [notes/networking](./notes/networking) |
 | Linux & CLI basics | ⬜ planned | [notes/linux](./notes/linux) |
 | Wireshark (packet analysis) | 🟡 in progress | [notes/tools/wireshark.md](./notes/tools) |
