@@ -52,6 +52,6 @@ e.g. links between CIA triad and things you've already dealt with as a web dev
 
 <!-- Add once completed -->
 
-![Cisco Introduction to Cybersecurity Certificate](./assets/cisco-intro-to-cybersecurity-certificate.png)
+![Cisco Introduction to Cybersecurity Certificate](./assets/cisco-intro-to-cybersecurity_certificate.png)
 
 
