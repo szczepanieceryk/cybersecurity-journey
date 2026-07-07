@@ -13,16 +13,14 @@ Starting point for building structured knowledge of cybersecurity fundamentals, 
 
 <!-- Fill in as you progress through the course modules -->
 
-- [ ] The Cybersecurity Landscape (threats, threat actors, motivations)
-- [ ] Fighting Cybercrime (defense strategies, security organizations)
-- [ ] The Cybersecurity Cube (CIA triad, security principles)
-- [ ] Cybersecurity Threats, Vulnerabilities, and Attacks
-- [ ] The Art of Protecting Secrets (cryptography basics)
-- [ ] The Art of Ensuring Integrity
-- [ ] The Five Nines Concept (availability)
-- [ ] Protecting Your Data and Privacy
-- [ ] Protecting the Organization (defense-in-depth, security policies)
-- [ ] Will Your Future Be in Cybersecurity? (career paths, certifications)
+- [x] Module 1: Introduction to Cybersecurity
+- [x] Module 2: Attacks, Concepts and Techniques
+- [x] Module 3: Protecting your Data and Privacy
+- [x] Module 4: Protecting the Organization
+- [x] Module 5: Will Your Future Be in Cybersecurity?
+- [x] End of Course Survey
+- [x] Introduction to Cybersecurity: Course Final Exam
+
 
 ## Key takeaways
 
