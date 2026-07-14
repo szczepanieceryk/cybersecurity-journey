@@ -30,14 +30,15 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 ## 📁 Repo structure
 
 ```
-├── notes/          # topic notes, theory rewritten in my own words
-│   ├── networking/
-│   ├── web-security/
-│   ├── linux/
+├── notes/                          # topic notes, theory rewritten in my own words
+│   ├── courses/
+│   │   ├── cisco-intro-to-cybersecurity.md
+│   │   └── assets/
+│   │       └── cisco-intro-to-cybersecurity-certificate.png
 │   └── tools/
-├── writeups/        # solutions from TryHackMe, HTB, PortSwigger Academy
-├── labs/            # personal experiments and mini-projects
-└── scripts/          # tools and scripts written along the way
+│       ├── nmap.md
+│       └── wireshark.md                         
+└── README.md                     
 ```
 
 ## 🧪 Featured projects / case studies
