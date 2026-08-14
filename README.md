@@ -46,13 +46,9 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 - **[Home Network Security Audit](./labs/home-network-audit)** — nmap scanning, identifying CVEs in IoT devices (cameras, router), VLAN segmentation
 - **[OWASP ASVS Checklist for Gmail Compressor](./labs/gmail-compressor-security)** — preparing an application for Google CASA Tier 2 verification, OAuth hardening
 
-## 📝 Writeups
-
-Updated regularly — full index in [writeups/](./writeups).
-
 ## 📚 Notes
 
-Short, essential topic notes — written for future me, not for publication. Full list in [notes/](./notes).
+Short, essential topic [notes](./notes/notes.md) — written for future me, not for publication. 
 
 
 ---
