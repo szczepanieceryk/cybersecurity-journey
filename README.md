@@ -16,7 +16,7 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 |---|---|---|
 | Cisco Networking Academy — Introduction to Cybersecurity | 🟢 done  | [notes/courses/cisco-intro-to-cybersecurity.md](./notes/courses/cisco-intro-to-cybersecurity.md) |
 | Networking Basics | 🟡 in progress | [notes/networking](./notes/courses/networking-basics.md) |
-| Khan Academy - AP®︎/College Computer Science Principles | 🟡 in progress | 
+| Khan Academy - AP®︎/College Computer Science Principles | 🟡 in progress | [notes/courses/khan-academy-college-computer-science-principles.md](.notes/courses/khan-academy-college-computer-science-principles.md)
 | Linux & CLI basics | ⬜ planned | [notes/linux](./notes/linux) |
 | Wireshark (packet analysis) | 🟡 in progress | [notes/tools/wireshark.md](./notes/tools) |
 | nmap (CLI) | 🟡 in progress | [notes/tools/nmap.md](./notes/tools) |
