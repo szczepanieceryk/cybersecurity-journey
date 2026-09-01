@@ -8,11 +8,11 @@
 
 1. Hello Hackers            ✅
 2. Pondering Paths          ✅
-3. Comprehending Commands   ✅
+3. Comprehending Commands   🟡 in progress 14/15 
 4. Digesting Documentation  ✅
-5. File Globing             🟡 in progress 
-6. Practicing Piping
-7. Shell Variables
+5. File Globing             🟡 in progress 8/10
+6. Practicing Piping        🟡 in progress 14/15
+7. Shell Variables          ✅
 8. Data Manipulation
 9. Terminal Multiplexing
 10. Pondering PATH
