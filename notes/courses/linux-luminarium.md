@@ -13,7 +13,7 @@
 5. File Globing             🟡 in progress 8/10
 6. Practicing Piping        🟡 in progress 14/15
 7. Shell Variables          ✅
-8. Data Manipulation
+8. Data Manipulation        🟡 in progress 5/6
 9. Terminal Multiplexing
 10. Pondering PATH
 11. Silly Shenanigans
