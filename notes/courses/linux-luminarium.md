@@ -14,7 +14,7 @@
 6. Practicing Piping        🟡 in progress 14/15
 7. Shell Variables          ✅
 8. Data Manipulation        🟡 in progress 5/6
-9. Terminal Multiplexing
+9. Terminal Multiplexing    🟡 in progress 5/10
 10. Pondering PATH
 11. Silly Shenanigans
 12. Daring Destruction 
