@@ -15,10 +15,14 @@
 7. Shell Variables          ✅
 8. Data Manipulation        🟡 in progress 5/6
 9. Processes and Jobs       ✅
-10. Terminal Multiplexing    
-11. Pondering PATH
-12. Silly Shenanigans
-13. Daring Destruction 
+10. Untangling Users
+11. Perceiving Permissions
+12. Chaining Commands
+13. Terminal Multiplexing    
+14. Pondering PATH
+15. Silly Shenanigans
+16. Daring Destruction
+17. Further Learning
 
 ## Notes 
 
