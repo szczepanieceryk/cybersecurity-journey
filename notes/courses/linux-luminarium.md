@@ -15,8 +15,8 @@
 7. Shell Variables          ✅
 8. Data Manipulation        🟡 in progress 5/6
 9. Processes and Jobs       ✅
-10. Untangling Users        🟡 in progress 2/4
-11. Perceiving Permissions
+10. Untangling Users        ✅
+11. Perceiving Permissions  🟡 in progress
 12. Chaining Commands
 13. Terminal Multiplexing    
 14. Pondering PATH
