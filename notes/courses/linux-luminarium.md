@@ -2,13 +2,13 @@
 
 ## Current course status 🗓️
 
-5 / 17 modules done ✅
+7 / 17 modules done ✅
 
 ## Modules
 
 1. Hello Hackers            ✅
 2. Pondering Paths          ✅
-3. Comprehending Commands   🟡 in progress 14/15 
+3. Comprehending Commands   ✅
 4. Digesting Documentation  ✅
 5. File Globing             🟡 in progress 8/10
 6. Practicing Piping        🟡 in progress 14/15
