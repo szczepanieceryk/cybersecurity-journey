@@ -28,7 +28,7 @@
 
 ### Perceiving Permissions
 
-How to read file permisions
+### How to read file permisions
 
 `ls -l`  to display list of files with permissions 
 
@@ -61,7 +61,7 @@ Then user name & group name that owns a file
 `hacker hacker `
 
 
-How to change permissions 
+### How to change permissions 
 
 `chmod [OPTIONS] MODE [FILE]` - change mode command  
 [OPTIONS] - `WHO/WHAT` where `WHO` is user/group/others and `WHAT` is read/write/execute
@@ -86,7 +86,8 @@ How to change permissions
 `chmod u+rw /my_file` - adds to user read & write permissions for /my_file
 
 
-How to change file ownership 
+### How to change file ownership 
+
 `chown [username] [file]` - change ownership command 
 `chown hacker /my_file`
 
