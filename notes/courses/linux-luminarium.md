@@ -2,7 +2,7 @@
 
 ## Current course status 🗓️
 
-7 / 17 modules done ✅
+8 / 17 modules done ✅
 
 ## Modules
 
