@@ -17,7 +17,7 @@
 9. Processes and Jobs       ✅
 10. Untangling Users        ✅
 11. [Perceiving Permissions](#perceiving-permissions)  ✅
-12. Chaining Commands       🟡 in progress 3/12
+12. Chaining Commands       🟡 in progress 7/12
 13. Terminal Multiplexing    
 14. Pondering PATH
 15. Silly Shenanigans
