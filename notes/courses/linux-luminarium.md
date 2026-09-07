@@ -16,7 +16,7 @@
 8. Data Manipulation        🟡 in progress 5/6
 9. Processes and Jobs       ✅
 10. Untangling Users        ✅
-11. [Perceiving Permissions](#perceiving-permissions)  🟡 in progress
+11. [Perceiving Permissions](#perceiving-permissions)  ✅
 12. Chaining Commands
 13. Terminal Multiplexing    
 14. Pondering PATH
@@ -59,3 +59,34 @@ Permisions:
 Then user name & group name that owns a file
 
 `hacker hacker `
+
+
+How to change permissions 
+
+`chmod [OPTIONS] MODE [FILE]` - change mode command  
+[OPTIONS] - `WHO/WHAT` where `WHO` is user/group/others and `WHAT` is read/write/execute
+
+`WHO`
+- `u` - user
+- `g` - group
+- `o` - other (groups & users)
+- `a` - all
+
+`WHAT`
+- `r` - user/group/other can read the file (or list the directory)
+- `w` - user/group/other can modify the files (or create/delete files in the directory)
+- `x` - user/group/other can execute the file as a program (or can enter the directory, e.g., using `cd`)
+- `-` - nothing / no peermissions at all
+
+`MODE` - you can modify existing permisions or overwrite with new ones 
+- `+` add permissions
+- `-` remove rermissions
+- `=` overwrite previous permission
+
+`chmod u+rw /my_file` - adds to user read & write permissions for /my_file
+
+
+How to change file ownership 
+`chown [username] [file]` - change ownership command 
+`chown hacker /my_file`
+
