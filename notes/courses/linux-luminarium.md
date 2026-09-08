@@ -2,7 +2,7 @@
 
 ## Current course status 🗓️
 
-8 / 17 modules done ✅
+9 / 17 modules done ✅
 
 ## Modules
 
@@ -17,7 +17,7 @@
 9. Processes and Jobs       ✅
 10. Untangling Users        ✅
 11. [Perceiving Permissions](#perceiving-permissions)  ✅
-12. Chaining Commands       🟡 in progress 7/12
+12. Chaining Commands       ✅
 13. Terminal Multiplexing    
 14. Pondering PATH
 15. Silly Shenanigans
@@ -91,3 +91,5 @@ Then user name & group name that owns a file
 `chown [username] [file]` - change ownership command 
 `chown hacker /my_file`
 
+
+### Chaining Commands
