@@ -108,4 +108,22 @@ In the same manner, you can run commands on failure - run command2 if command1 f
 
 ` touch my_file || echo "You cannot touch this file so you see this error message"`
 
+### Writing bash scripts
 
+To write s bash script we need to create a file for e.g. `script.sh` but the `.sh` extension is not necessary - it can be a Python script as well (`.py`) or other.
+
+When a program is invoked, Linux kernel inspects first few bytes of the file to determine how it should be run.
+Shell script must start with characters `#!/bin/bash` as the very first line in a file and then the rest of the code.
+
+For e.g.:
+
+```
+  #!/bin/bash
+  echo "Hello Hackers!"
+```
+
+Then we can run our bash script with 
+
+`bash [SCRIPT_NAME]` like so `bash script.sh`
+
+or just by path of the script - `./script.sh`
