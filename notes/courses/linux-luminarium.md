@@ -93,3 +93,19 @@ Then user name & group name that owns a file
 
 
 ### Chaining Commands
+
+The easiest way to chain commands is to separates them with `;` semicolon 
+
+`echo COLLEGE > pwn; cat pwn`
+
+`&&` and `||` operators.
+
+You can use `&&` to run commands on success. Meaning - run second command only when the first one ends with success
+
+`touch /my_file && echo "file /my_file created successfully"`.
+
+In the same manner, you can run commands on failure - run command2 if command1 fails to succeed.
+
+` touch my_file || echo "You cannot touch this file so you see this error message"`
+
+
