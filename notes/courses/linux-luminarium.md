@@ -2,7 +2,7 @@
 
 ## Current course status 🗓️
 
-9 / 17 modules done ✅
+10 / 17 modules done ✅
 
 ## Modules
 
@@ -18,8 +18,8 @@
 10. Untangling Users        ✅
 11. [Perceiving Permissions](#perceiving-permissions)  ✅
 12. [Chaining Commands](#chaining-commands)       ✅
-13. Terminal Multiplexing    
-14. Pondering PATH
+13. Terminal Multiplexing   ✅ 
+14. Pondering PATH          🟡 in progress
 15. Silly Shenanigans
 16. Daring Destruction
 17. Further Learning
