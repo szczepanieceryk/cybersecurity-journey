@@ -13,7 +13,7 @@
 5. File Globing             ✅
 6. Practicing Piping        🟡 in progress 14/15
 7. Shell Variables          ✅
-8. Data Manipulation        🟡 in progress 5/6
+8. Data Manipulation        ✅
 9. Processes and Jobs       ✅
 10. Untangling Users        ✅
 11. [Perceiving Permissions](#perceiving-permissions)  ✅
