@@ -2,7 +2,7 @@
 
 ## Current course status 🗓️
 
-10 / 17 modules done ✅
+11 / 17 modules done ✅
 
 ## Modules
 
@@ -10,7 +10,7 @@
 2. Pondering Paths          ✅
 3. Comprehending Commands   ✅
 4. Digesting Documentation  ✅
-5. File Globing             🟡 in progress 8/10
+5. File Globing             ✅
 6. Practicing Piping        🟡 in progress 14/15
 7. Shell Variables          ✅
 8. Data Manipulation        🟡 in progress 5/6
