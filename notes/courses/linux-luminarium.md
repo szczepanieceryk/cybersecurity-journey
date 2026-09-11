@@ -19,7 +19,7 @@
 11. [Perceiving Permissions](#perceiving-permissions)  ✅
 12. [Chaining Commands](#chaining-commands)       ✅
 13. Terminal Multiplexing   🟡 in progress 5/6
-14. Pondering PATH          ✅
+14. [Pondering PATH](#pondering-path)          ✅
 15. Silly Shenanigans
 16. Daring Destruction
 17. Further Learning
@@ -127,3 +127,25 @@ Then we can run our bash script with
 `bash [SCRIPT_NAME]` like so `bash script.sh`
 
 or just by path of the script - `./script.sh`
+
+
+### Pondering path
+
+Sometimes we need to call command by it's absolute path , but how to find it ?
+The answer is `which` ! .
+```
+hacker@path~hijacking-commands:~$ which cat
+/run/dojo/bin/cat
+hacker@path~hijacking-commands:~$ 
+```
+
+Having this path, we can use it with combination of environment variable `PATH` 
+
+```
+PATH=/run/dojo/bin/cat
+```
+
+so that the shell knows where to look for the command.
+
+But why to do all of this ? ... well you can create your own custom commands to make the shell even more useful for yourself! .
+
