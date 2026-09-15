@@ -20,7 +20,7 @@
 12. [Chaining Commands](#chaining-commands)       ✅
 13. Terminal Multiplexing   🟡 in progress 5/6
 14. [Pondering PATH](#pondering-path)          ✅
-15. Silly Shenanigans
+15. Silly Shenanigans       🟡 in progress 1/6
 16. Daring Destruction
 
 ## Notes 
