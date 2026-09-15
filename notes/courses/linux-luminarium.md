@@ -12,7 +12,7 @@
 4. Digesting Documentation  ✅
 5. File Globing             ✅
 6. Practicing Piping        🟡 in progress 14/15
-7. Shell Variables          ✅
+7. [Shell Variables](#shell-variables)          ✅
 8. Data Manipulation        ✅
 9. Processes and Jobs       ✅
 10. Untangling Users        ✅
@@ -25,6 +25,24 @@
 17. Further Learning
 
 ## Notes 
+
+### Shell Variables
+
+To assign value to a variable you just simply use `=` , e.g. `VAR=1234` .
+
+Then you can access this variable when needed by `$` so in our case `$VAR` 
+
+```
+hacker@dojo:~$ VAR=1234
+hacker@dojo:~$ echo $VAR
+1234
+```
+
+You can also assign command output to a variable 
+
+```
+hacker@dojo:~$ FLAG=$(cat /flag)
+```
 
 ### Perceiving Permissions
 
