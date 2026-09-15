@@ -2,7 +2,7 @@
 
 ## Current course status 🗓️
 
-12 / 17 modules done ✅
+12 / 16 modules done ✅
 
 ## Modules
 
@@ -22,7 +22,6 @@
 14. [Pondering PATH](#pondering-path)          ✅
 15. Silly Shenanigans
 16. Daring Destruction
-17. Further Learning
 
 ## Notes 
 
