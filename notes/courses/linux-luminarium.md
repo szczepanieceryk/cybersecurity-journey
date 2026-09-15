@@ -32,17 +32,33 @@ To assign value to a variable you just simply use `=` , e.g. `VAR=1234` .
 
 Then you can access this variable when needed by `$` so in our case `$VAR` 
 
-```
+`
 hacker@dojo:~$ VAR=1234
 hacker@dojo:~$ echo $VAR
 1234
-```
+`
 
 You can also assign command output to a variable 
 
 ```
-hacker@dojo:~$ FLAG=$(cat /flag)
+FLAG=$(cat /flag)
 ```
+
+Another thing you can do with variables is assign them a value entered by the user. 
+
+
+```
+read -p "<PROMPT> " <MY_VARIABLE>
+``` 
+
+Where `read` is a builtin which read input into a variable . 
+
+`-p` let you specify a prompt message.
+
+`<PROMT>` is a place for a text user will see (will be prompted with)
+
+and finally `<MY_VARIABLE>` as the name of a variable you want to create (read user input in to) 
+
 
 ### Perceiving Permissions
 
