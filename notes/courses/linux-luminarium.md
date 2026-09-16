@@ -54,6 +54,22 @@ hi
 hello
 ``` 
 
+Redirecting input to programs with `<`.
+
+```
+hacker@dojo:~$ echo yo > message
+hacker@dojo:~$ cat message
+yo
+hacker@dojo:~$ rev < message
+oy
+```
+
+Error redirection using `2>`.
+
+`hacker@dojo:~$ some_command > output.log 2> errors.log` 
+
+Redirect output from `some_command` to `output.log` file & errors to `errors.log`
+
 ### Shell Variables
 
 To assign value to a variable you just simply use `=` , e.g. `VAR=1234` .
