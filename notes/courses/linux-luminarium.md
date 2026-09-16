@@ -11,7 +11,7 @@
 3. Comprehending Commands   ✅
 4. Digesting Documentation  ✅
 5. File Globing             ✅
-6. Practicing Piping        🟡 in progress 14/15
+6. [Practicing Piping](#practicing-piping)        🟡 in progress 14/15
 7. [Shell Variables](#shell-variables)          ✅
 8. Data Manipulation        ✅
 9. Processes and Jobs       ✅
@@ -24,6 +24,35 @@
 16. Daring Destruction
 
 ## Notes 
+
+### Practicing Piping
+
+Initial, standard channels of communication in Linux: `stdin`, `stdout`, `stderr`.
+- `stdin` - Standard input is the channel through which the process takes input for e.g. shell reading your commands
+
+- `stdout` - Standard Output is the channel through which processes output normal data for e.g. shell displays list of files in given directory after `ls` command 
+
+- `stderr` - Standard Error is the channel through which processes output error details for e.g. when you mistype the command .
+
+Sometimes you need to redirect output (input or error) from one command to another command or a file. You can do this by simply using `>` char in between .
+
+```
+echo hi > new_file
+```
+
+This will `echo` string `hi` to a file `new_file`. But what if you want to aggregate output from many commands into one file ?. Simple use `>>`.
+
+```
+echo hello >> new_file
+```
+
+This will keep data from both `echo` commands in separate lines.
+
+```
+hacker@dojo:~$ cat my_file
+hi
+hello
+``` 
 
 ### Shell Variables
 
