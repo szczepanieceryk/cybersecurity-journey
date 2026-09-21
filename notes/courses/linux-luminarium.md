@@ -88,6 +88,18 @@ Error redirection using `2>`.
 
 Redirect output from `some_command` to `output.log` file & errors to `errors.log`
 
+
+`sed` (stream editor) command - It processes text line by line, applying the editing commands you specify.
+
+for e.x. replacing words `sed "s/oldword/newword/g"`
+
+where `s` means substitute and `g` - search for all occurrences of the pattern.
+
+You can also delete a given string if you don't specify the second argument and just put 2 `//` like so 
+
+`sed 's/stringtodelete//g`
+
+
 ### Shell Variables
 
 To assign value to a variable you just simply use `=` , e.g. `VAR=1234` .
