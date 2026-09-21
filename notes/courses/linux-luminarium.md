@@ -14,7 +14,7 @@
 6. [Practicing Piping](#practicing-piping)      ✅
 7. [Shell Variables](#shell-variables)          ✅
 8. Data Manipulation        ✅
-9. Processes and Jobs       ✅
+9. [Processes and Jobs](#processes-and-jobs)       ✅
 10. Untangling Users        ✅
 11. [Perceiving Permissions](#perceiving-permissions)  ✅
 12. [Chaining Commands](#chaining-commands)       ✅
@@ -132,6 +132,22 @@ Where `read` is a builtin which read input into a variable .
 `<PROMT>` is a place for a text user will see (will be prompted with)
 
 and finally `<MY_VARIABLE>` as the name of a variable you want to create (read user input in to) 
+
+### Processes and Jobs
+
+`ps` ("process snapshot / status) command - used for listing of running processes.
+
+arguments: 
+
+`-e` every 
+
+`-f` full format or combination `-ef`
+
+`a` all users
+
+`u` user readable
+
+`x` not running in terminal - combionation `aux`
 
 
 ### Perceiving Permissions
