@@ -8,7 +8,7 @@
 
 1. Hello Hackers            ✅
 2. Pondering Paths          ✅
-3. Comprehending Commands   ✅
+3. [Comprehending Commands](#comprehending-commands)   ✅
 4. Digesting Documentation  ✅
 5. File Globing             ✅
 6. [Practicing Piping](#practicing-piping)      ✅
@@ -24,6 +24,24 @@
 16. Daring Destruction
 
 ## Notes 
+
+
+### Comprehending Commands
+
+`grep` command - It is used to search for specific words, phrases, or patterns inside text files, and shows the matching lines on your screen.
+
+`hacker@dojo:~$ grep SEARCH_STRING /path_to_file`
+
+for e.x.:
+
+```
+grep flag /challenge/data.txt
+```
+
+`SEARCH_STRING` - a phrase your searching for
+
+`/path_to_file` - a file you want to search in
+
 
 ### Practicing Piping
 
