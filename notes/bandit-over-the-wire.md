@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 0 / 34
+## Game progress 4 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
