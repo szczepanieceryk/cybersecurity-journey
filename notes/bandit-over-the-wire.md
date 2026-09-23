@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 8 / 34
+## Game progress 10 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -51,10 +51,12 @@ Find files inside directory by specified file size
 
 How to ignore errors like permission denied while looking for a file - `2>/dev/null`
 
+
 ### Lvl 7 - 8
 `grep` command - to look for a specified phrase in a file 
 
 ```grep "PHRASE" FILE_TO_SEARCH```
+
 
 ### Lvl 8 - 9
 `uniq -u` command Use the -u option to show lines that appear only once.
@@ -62,4 +64,23 @@ How to ignore errors like permission denied while looking for a file - `2>/dev/n
 Remember that `uniq` need input data to be sorted beforehand.
 
 Combination of `sort` & `uniq` commands
+
+
+### Lvl 9 - 10
+
+`strings` command to extract all strings from a file.
+
+`-a` flag to cover all sections including metadata.
+
+In combination with `grep` for specified characters.
+
+### Lvl 9 - 10
+
+`base64` command to decode encoded data.
+
+`-d` - decode 
+
+### Lvl 10 - 11
+
+`tr` (translate) command - to switch position of each character by 13 (ROT 13 cipher) 
 
