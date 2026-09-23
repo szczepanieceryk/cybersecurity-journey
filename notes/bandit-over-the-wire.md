@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 5 / 34
+## Game progress 6 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -32,3 +32,16 @@ Relative path + `TAB` or escape spaces with `\` character
 `file` command 
 
 `file DIRECTORY_NAME/*` - display file type of all files in this (DIRECTORY_NAME) directory 
+
+### Lvl 5 - 6
+`find` command 
+
+Find files inside directory by specified file size 
+
+`find . -size FILE_SIZE_WITH_UNIT_SUFFIX`
+
+`.` - look for the files inside current directory 
+
+`-size` - look for files with specified file size
+
+`FILE_SIZE_WITH_UNIT_SUFFIX` - specified file size with unit suffix for e.x. 1033c (1033 bytes)
