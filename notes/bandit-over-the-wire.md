@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 4 / 34
+## Game progress 5 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -29,3 +29,6 @@ Relative path + `TAB` or escape spaces with `\` character
 `cat` with relative path
 
 ### Lvl 4 - 5
+`file` command 
+
+`file DIRECTORY_NAME/*` - display file type of all files in this (DIRECTORY_NAME) directory 
