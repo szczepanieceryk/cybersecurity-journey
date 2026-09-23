@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 6 / 34
+## Game progress 8 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -45,3 +45,21 @@ Find files inside directory by specified file size
 `-size` - look for files with specified file size
 
 `FILE_SIZE_WITH_UNIT_SUFFIX` - specified file size with unit suffix for e.x. 1033c (1033 bytes)
+
+### Lvl 6 - 7
+`find` command 
+
+How to ignore errors like permission denied while looking for a file - `2>/dev/null`
+
+### Lvl 7 - 8
+`grep` command - to look for a specified phrase in a file 
+
+```grep "PHRASE" FILE_TO_SEARCH```
+
+### Lvl 8 - 9
+`uniq -u` command Use the -u option to show lines that appear only once.
+
+Remember that `uniq` need input data to be sorted beforehand.
+
+Combination of `sort` & `uniq` commands
+
