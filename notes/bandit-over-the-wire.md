@@ -89,3 +89,5 @@ In combination with `grep` for specified characters.
 Work on temporary directory. Assign the value of `mktemp -d` to a variable and reuse it with `$VAR_NAME`
 
 Copy origin data to a file and work on that copy `cp data.txt data_copy.txt`
+
+Use standard output `stdout` redirection between files  
