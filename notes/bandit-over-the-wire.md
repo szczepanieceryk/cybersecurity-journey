@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 10 / 34
+## Game progress 12 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -74,13 +74,18 @@ Combination of `sort` & `uniq` commands
 
 In combination with `grep` for specified characters.
 
-### Lvl 9 - 10
+### Lvl 10 - 11
 
 `base64` command to decode encoded data.
 
 `-d` - decode 
 
-### Lvl 10 - 11
+### Lvl 11 - 12
 
 `tr` (translate) command - to switch position of each character by 13 (ROT 13 cipher) 
 
+### Lvl 12 - 13
+
+Work on temporary directory. Assign the value of `mktemp -d` to a variable and reuse it with `$VAR_NAME`
+
+Copy origin data to a file and work on that copy `cp data.txt data_copy.txt`
