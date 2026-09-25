@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 12 / 34
+## Game progress 13 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -91,3 +91,15 @@ Work on temporary directory. Assign the value of `mktemp -d` to a variable and r
 Copy origin data to a file and work on that copy `cp data.txt data_copy.txt`
 
 Use standard output `stdout` redirection between files  
+
+### Lvl 13 - 14
+
+Copy a file with key using `scp` command - secure file copy between hosts on the same network. 
+
+`scp -P PORT_NUMBER USER_NAME@HOST_IP:PATH_TO_FILE_WITH_KEY .` 
+
+Log in to next lvl using key 
+
+`ssh -i KEY_FILE USER_NAME@HOST_IP -p PORT_NUMBER`
+
+### Lvl 14 - 15
