@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 13 / 34
+## Game progress 15 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -103,3 +103,9 @@ Log in to next lvl using key
 `ssh -i KEY_FILE USER_NAME@HOST_IP -p PORT_NUMBER`
 
 ### Lvl 14 - 15
+
+Use `openssl s_client` to submit password.
+
+### Lvl 15 - 16
+
+`openssl s_client -connect HOST -port PORT_NUMBER ` 
