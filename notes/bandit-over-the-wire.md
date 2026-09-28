@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 16 / 34
+## Game progress 17 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -119,3 +119,17 @@ Perform network scan on specified host and ports with `nmap`
 Then submit the password again using 
 
 ```openssl s_client -connect HOST -port PORT_NUMBER -quiet```
+
+Get the PRIVATE KEY password.
+
+Create file on your local machine and copy key inside. Add permissions `chmod 600`.
+
+Then use created file as a key to log in via ssh.
+
+```ssh -i KEY_FILE USER@HOST -p PORT_NUMBER```
+
+### Lvl 17 - 18
+
+Use `diff` command to compare two files.
+
+
