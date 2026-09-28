@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 15 / 34
+## Game progress 16 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -109,3 +109,13 @@ Use `openssl s_client` to submit password.
 ### Lvl 15 - 16
 
 `openssl s_client -connect HOST -port PORT_NUMBER ` 
+
+### Lvl 16 - 17
+
+Perform network scan on specified host and ports with `nmap`
+
+```nmap -sV HOST -p PORT_RANGE```
+
+Then submit the password again using 
+
+```openssl s_client -connect HOST -port PORT_NUMBER -quiet```
