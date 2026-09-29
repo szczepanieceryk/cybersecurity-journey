@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 18 / 34
+## Game progress 19 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -135,3 +135,6 @@ Use `diff` command to compare two files.
 ### Lvl 18 - 19
 
 You can add commands at the end of ssh log in syntax. Given command will be executed on the remote host instead of a login shell.
+
+### Lvl 19 - 20
+Use of `nc` (netcat) and `sreen` commands
