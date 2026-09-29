@@ -150,3 +150,7 @@ Use line from bash script to get correct password.
 ### Lvl 23 - 24
 
 Create TEMPORARY_FOLDER. Write a bash script to this folder (think were the passwords from previous levels where written). Write password to file in TEMPORARY_FOLDER. Add permissions to folder and script. `cat` TEMPORARY_FOLDER to get the password.
+
+### Lvl 23 - 24
+
+Write a loop using `|` to pass values between commands to finally get the password.
