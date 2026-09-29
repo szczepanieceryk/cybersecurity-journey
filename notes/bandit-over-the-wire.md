@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 19 / 34
+## Game progress 21 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -138,3 +138,7 @@ You can add commands at the end of ssh log in syntax. Given command will be exec
 
 ### Lvl 19 - 20
 Use of `nc` (netcat) and `sreen` commands
+
+### Lvl 21 - 22
+
+Display file list of given directory. Find & analyze cron job. 
