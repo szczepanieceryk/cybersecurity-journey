@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 23 / 34
+## Game progress 24 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -139,24 +139,24 @@ You can add commands at the end of ssh log in syntax. Given command will be exec
 ### Lvl 19 - 20
 Use of `nc` (netcat) and `sreen` commands
 
-### Lvl 21 - 22
+### Lvl 20 - 21
 
 Display file list of given directory. Find & analyze cron job. 
 
-### Lvl 22 - 23
+### Lvl 21 - 22
 
 Use line from bash script to get correct password.
 
-### Lvl 23 - 24
+### Lvl 22 - 23
 
 Run script from the appropriate cron job and figure out how to get the right password
 
-### Lvl 24 - 25
+### Lvl 23 - 24
 
 Create TEMPORARY_FOLDER. Write a bash script to this folder (think were the passwords from previous levels where written). Write password to file in TEMPORARY_FOLDER. Add permissions to folder and script. `cat` TEMPORARY_FOLDER to get the password.
 
-### Lvl 25 - 26
+### Lvl 24 - 25
 
 Write a loop using `|` to pass values between commands to finally get the password.
 
-### Lvl 26 - 27
+### Lvl 25 - 26
