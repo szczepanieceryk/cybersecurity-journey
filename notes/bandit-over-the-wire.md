@@ -168,3 +168,7 @@ Copy file with password key to bandit26 from outside of bandit environment using
 Then log in to bandit 26 using password key `ssh -i`. 
 
 ```ssh -i FILE_NAME USER_NAME@HOST_IP -p PORT_NUMBER```
+
+### Lvl 26 - 27
+
+### Lvl 27 - 28
