@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 24 / 34
+## Game progress 25 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -160,3 +160,9 @@ Create TEMPORARY_FOLDER. Write a bash script to this folder (think were the pass
 Write a loop using `|` to pass values between commands to finally get the password.
 
 ### Lvl 25 - 26
+
+Copy file with password key to bandit26 from outside of bandit environment using secure coppy command `scp` .
+
+```scp -p PORT_NUMBER FILE_NAME USER_NAME@HOST_IP:/PATH_TO_FILE .```
+
+Then log in to bandit 26 using password key `ssh -i`. 
