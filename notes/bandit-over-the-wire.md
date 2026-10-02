@@ -175,6 +175,6 @@ Then log in to bandit 26 using password key `ssh -i`.
 
 Clone repo from your local machine 
 
-```ssh://bandit27-git@bandit.labs.overthewire.org:PORT_NUMBER/home/bandit27-git/repo```
+```git clone ssh://bandit27-git@bandit.labs.overthewire.org:PORT_NUMBER/home/bandit27-git/repo```
 
 Get into repo with `cd repo` & find password
