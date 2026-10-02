@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 27 / 34
+## Game progress 28 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -178,3 +178,20 @@ Clone repo from your local machine
 ```git clone ssh://bandit27-git@bandit.labs.overthewire.org:PORT_NUMBER/home/bandit27-git/repo```
 
 Get into repo with `cd repo` & find password
+
+### Lvl 28 - 29
+
+Clone repo from your local machine 
+
+```git clone ssh://bandit28-git@bandit.labs.overthewire.org/home/bandit28-git/repo OTHER_FOLDER_NAME```
+
+At this point you want to copy another repository probably to the same default folder .
+
+By `OTHER_FOLDER_NAME` at the end of the clone command you can define your own folder for the repo (it will be generated automatically)
+
+`cd OTHER_FOLDER_NAME`
+
+Additionally two  `git` commands: `git log` & `git show COMMIT_ID` to display commits history and display single commit data.
+
+
+
