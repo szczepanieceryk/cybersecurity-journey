@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 29 / 34
+## Game progress 30 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -201,3 +201,7 @@ Additionally two  `git` commands: `git log` & `git show COMMIT_ID` to display co
 Password is not on a production ... . 
 
 `git branch -a` & `git checkout BRANCH_NAME`
+
+### Lvl 30 - 31
+
+`git tag`
