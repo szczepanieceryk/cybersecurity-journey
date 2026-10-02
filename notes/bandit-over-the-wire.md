@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 25 / 34
+## Game progress 27 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -172,3 +172,9 @@ Then log in to bandit 26 using password key `ssh -i`.
 ### Lvl 26 - 27
 
 ### Lvl 27 - 28
+
+Clone repo from your local machine 
+
+```ssh://bandit27-git@bandit.labs.overthewire.org:PORT_NUMBER/home/bandit27-git/repo```
+
+Get into repo with `cd repo` & find password
