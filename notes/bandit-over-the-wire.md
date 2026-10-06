@@ -1,6 +1,6 @@
 # Bandit Over The Wire Game Notes
 
-## Game progress 31 / 34
+## Game progress 34 / 34
 
 ### Lvl 0
 Login using ssh to a specified port
@@ -212,3 +212,17 @@ Password is not on a production ... .
 2. Add file to git tracking .
 3. Commit changes .
 4. Push file to repo.
+
+ ### Lvl 32 - 33
+
+ `$0` break out.
+
+ `ls -la` display files & permissions 
+
+ `whoami` check the currently logged in user 
+
+ ### Lvl 33 - 34
+ 
+There's no Lvl 34 by now .
+Finish!
+ 
