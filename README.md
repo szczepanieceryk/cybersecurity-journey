@@ -15,10 +15,11 @@ Building the knowledge and practical skills needed to work in cybersecurity, wit
 | Area | Status | Notes |
 |---|---|---|
 | Cisco Networking Academy — Introduction to Cybersecurity | 🟢 done  | [notes/courses/cisco-intro-to-cybersecurity.md](./notes/courses/cisco-intro-to-cybersecurity.md) |
-| Networking Basics | 🟡 in progress | [notes/networking](./notes/courses/networking-basics.md) |
 | Khan Academy - AP®︎/College Computer Science Principles | 🟢 done | [notes/courses/khan-academy-college-computer-science-principles.md](./notes/courses/khan-academy-college-computer-science-principles.md)
 | PWN College Linux Luminarium | 🟢 done 14/16 | [notes/linux](./notes/courses/linux-luminarium.md) |
 | Bandit Overt The Wire Game | 🟢 done  | [notes/bandit](./notes/bandit-over-the-wire.md)  | 
+| Networking Basics | 🟡 in progress | [notes/networking](./notes/courses/networking-basics.md) |
+| Natas Overt The Wire Game| 🟡 in progress | [notes/networking](./notes/courses/natas-over-the-wire.md) |
 | Wireshark (packet analysis) | ⬜ planned | [notes/tools/wireshark.md](./notes/tools) |
 | nmap (CLI) | ⬜ planned | [notes/tools/nmap.md](./notes/tools) |
 | Web Security (OWASP Top 10) | ⬜ planned | [notes/web-security](./notes/web-security) |
