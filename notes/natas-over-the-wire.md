@@ -1,6 +1,6 @@
 # Natas - Over the wire game   
 
-## Game progress 0 / 34 lvl
+## Game progress 2 / 34 lvl
 
 ### Lvl 0 - 1
 Inspect web page. 
