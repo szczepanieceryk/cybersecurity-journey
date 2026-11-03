@@ -9,3 +9,5 @@ Inspect web page.
 Use keyboard shortcut. 
 
 ### Lvl 2 - 3
+Directory listing - WWW server function to display list of files inside a folder.
+Check if pages is loading some resources (e.x. images) and open parent folder vis URL
