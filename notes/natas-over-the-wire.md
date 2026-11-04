@@ -20,3 +20,8 @@ Tip inside commented text inside HTML - file for crawlers what not to index
 `curl` request to `natas4 URL` with `refrerer Header` of `natas5`
 
 ``` curl -v -u <USER_NAME>:<PASSWORD> -H "<HEADER>: <NATAS5_URL>" <NATAS$_URL>```
+
+### Lvl 5 - 6
+Use flag `-v` and read what response brings you back.
+
+Use `cookies` flag to pass the appropriate value and log in 
