@@ -25,3 +25,9 @@ Tip inside commented text inside HTML - file for crawlers what not to index
 Use flag `-v` and read what response brings you back.
 
 Use `cookies` flag to pass the appropriate value and log in 
+
+### Lvl 6 - 7
+Read and try to understand source code written in `PHP`. 
+
+`TIP:` where `$secret` comes from ?
+  
