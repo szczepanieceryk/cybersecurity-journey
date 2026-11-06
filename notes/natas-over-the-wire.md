@@ -39,3 +39,14 @@ Pass the path to file with password to URL as `?page=` parameter value
 
 ### Lvl 8 - 9
 Revers the function to decode the secret 
+
+### Lvl 9 - 10
+`command injection` vulnerability .
+
+Pass your own command as input value to `break out` of the original command and use it to your own good.
+
+Analyse PHP code & HTTP request.
+
+`TIP1:` Browser is just plain HTML + HTTP , you can see everything throw curl the same way. 
+
+`TIP2:` If there's no form method in HTML - it's `GET` by default.  
