@@ -1,6 +1,6 @@
 # Natas - Over the wire game   
 
-## Game progress 9 / 34 lvl
+## Game progress 10 / 34 lvl
 
 ### Lvl 0 - 1
 Inspect web page. 
@@ -50,3 +50,9 @@ Analyse PHP code & HTTP request.
 `TIP1:` Browser is just plain HTML + HTTP , you can see everything throw curl the same way. 
 
 `TIP2:` If there's no form method in HTML - it's `GET` by default.  
+
+### Lvl 10 - 11
+
+`command injection` vulnerability limited by array of characters that you cannot use.
+
+Find other character to finish one and & start another command or use `grep` command with appropriate parameters 
