@@ -35,3 +35,7 @@ Read and try to understand source code written in `PHP`.
 `LFI (Local File Inclusion)` - a web application security vulnerability that happens when an application uses unvalidated or unsanitized user-controlled input to load files from the local server.
 
 Pass the path to file with password to URL as `?page=` parameter value 
+
+
+### Lvl 8 - 9
+Revers the function to decode the secret 
