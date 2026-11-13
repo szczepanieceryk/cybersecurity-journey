@@ -1,6 +1,6 @@
 # Natas - Over the wire game   
 
-## Game progress 10 / 34 lvl
+## Game progress 11 / 34 lvl
 
 ### Lvl 0 - 1
 Inspect web page. 
@@ -64,3 +64,5 @@ Key to this level is in this line of code `$data["showpassword"] == "yes"`.
 You need to overwrite cookie value in the way that `showpassword == "yes"`.
 
 The best way to do this is to write a script for e.x. in `Python`
+
+Send `curl` request with new cookie value `cookieName=cookieValue`
